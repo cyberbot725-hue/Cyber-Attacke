@@ -41,17 +41,7 @@ const timeString = now.toLocaleTimeString("en-US", { hour12: true, timeZone: "As
     "https://i.postimg.cc/904gjPHn/images-11.jpg",
     "https://i.postimg.cc/8k3nmYhQ/images-10.jpg",
     "https://i.postimg.cc/KjdqcKZv/images-9.jpg",
-    "https://i.postimg.cc/28Z9cxwq/images-8.jpg",
-    "https://i.imgur.com/JHez1kT.jpeg",
-    "https://i.imgur.com/ny4GsGh.jpeg",
-    "https://i.imgur.com/tXJY0Z2.jpeg",
-    "https://i.imgur.com/128FTo5.jpeg",
-    "https://i.imgur.com/XCAY4nH.jpeg",
-    "https://i.imgur.com/eTAR4DD.jpeg",
-    "https://i.imgur.com/a5CThfj.jpeg",
-    "https://i.imgur.com/2TpLGFc.jpeg",
-    "https://i.imgur.com/aTIEW4G.jpeg",
-    "https://i.imgur.com/Bs9Oe2O.jpeg",
+    "https://i.postimg.cc/28Z9cxwq/images-8.jpg"
   ];
   const bgURL = bgURLs[Math.floor(Math.random() * bgURLs.length)];
 
