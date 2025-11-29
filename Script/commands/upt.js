@@ -31,7 +31,7 @@ module.exports.run = async function ({ api, event }) {
     const minutes = Math.floor((uptime % 3600) / 60);
     const seconds = Math.floor(uptime % 60);
     const ping = Date.now() - event.timestamp;
-    const owner = "𝐒𝐚𝐬𝐮𝐤𝐞";
+    const owner = "𝐈𝐭𝐚𝐜𝐡𝐢";
 
     // ✍️ Base text style
     ctx.fillStyle = "#FFFFFF";
